@@ -1,0 +1,8 @@
+visual.py
+dataset.tar
+*.png
+*.csv
+dataset/
+__pycache__/
+old/
+*.h5
